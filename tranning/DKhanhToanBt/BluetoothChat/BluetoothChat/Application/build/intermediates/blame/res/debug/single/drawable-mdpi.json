@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\p2.png",
+        "source": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\p2.png"
+    },
+    {
+        "merged": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\p1.png",
+        "source": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\p3.png",
+        "source": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\p3.png"
+    },
+    {
+        "merged": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kk\\Desktop\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
