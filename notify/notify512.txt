@@ -1,0 +1,28 @@
+﻿Bảng nội dung ngày 5/12/2017
+	1. File tranning - add các file powerpoint ( có link chú thích nguồn) và project thuyết trình vào . ( tranh thủ)
+	2. File src -> đổi tên thành file project ( tranh thủ)
+	3. Hôm nay 5/12/2017 commit SDS ( nếu k có SDS nhóm thì ai làm cá nhân thì commit SDS cá nhân lên ) (gấp)
+	4. Hôm nay 5/12/2017 commit giao diện (có ảnh)  ( phần công việc mình làm của BIG PROJECT)
+
+Hướng dẫn ghi SDS  (ví dụ activity đăng nhập) 
+	Bước 1 : Quăng 1 cái hình ảnh activity 
+	Bước 2 : Mô tả các thao tác người dùng 
+	Bước 3 : Mô tả các thao tác hệ thống 
+
+Ví dụ dụ minh họa 
+	( đây là cái hình ) 
+	Mô tả :
+	Người dùng nhập vào user name và password sau đó bấm đăng nhập
+	Hệ thống sẽ kiểm tra ( gì gì đó )
+	Sau đó hệ thống sẽ lên firebase kiểm tra sự tồn tại của tài khoản
+
+	Ví dụ : Nếu tài khoản tồn tại ( sẽ trả về abc hay xyz gì đó )
+	Còn nếu tài khoản tải không tồn tại thì sẽ ( xuất hiện cái gì đó abc hay xyz ) 
+
+
+
+
+4. Đã có điểm nhóm gồm cột cá nhân và cột nhóm cột nhóm = ( project 3 tuần + lại ) 
+( điểm này có thay đổi phụ thuộc vào việc có commit file hay không ) \
+ví dụ m 7 điểm vào 5/12/2017 nhưng nếu thầy về nhà và kiểm tra m chưa commit file thì thầy sẽ sửa điểm * cá nhân * về 4 hoặc 5 
+( vì không có file ) 
