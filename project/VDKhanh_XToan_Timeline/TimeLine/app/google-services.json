@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "239363246377",
+    "firebase_url": "https://timelinemodule.firebaseio.com",
+    "project_id": "timelinemodule",
+    "storage_bucket": "timelinemodule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239363246377:android:b17fd32094d21087",
+        "android_client_info": {
+          "package_name": "com.example.peter.timeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239363246377-ujlsheuqmqu9btqoaspui0o25dlov3f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.timeline",
+            "certificate_hash": "e95dae992452cdc2d8e56695dcea3e9e449877e6"
+          }
+        },
+        {
+          "client_id": "239363246377-lvos0mm71v6ou951i1kecctvmk1a1alu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.timeline",
+            "certificate_hash": "88bcaaa86dcda2b7c5baa5318d84bc39829fae25"
+          }
+        },
+        {
+          "client_id": "239363246377-oemgj5oj8vp17hheso4tdjts9eraon0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwigF7FfWi7-yBgAeDlYMyi9dt-rOXxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239363246377-oemgj5oj8vp17hheso4tdjts9eraon0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
