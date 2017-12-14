@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">8 Mini</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="navigation_drawer_open">open</string>
+
+    <!--Color-->
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_timeLine">Timeline</string>
+    <string name="title_persion">Persion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="save">Lưu</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="ketBan">muốn kết bạn với bạn</string>
+</resources>

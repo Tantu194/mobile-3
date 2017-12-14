@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navi_listFriend"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navi_timeLine"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="@string/title_timeLine" />
+
+    <item
+        android:id="@+id/navi_persion"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/title_persion" />
+
+</menu>
